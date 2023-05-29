@@ -41,22 +41,22 @@
   },
   {
     "name": "AgroKart",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "instagrammern",
+    "desc": "Agrokart is an online platform that connects farmers, corporate buyers, and rental service providers.",
+    "image": "agrokart",
     "category": "mern",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://github.com/Tushar2930/GFG_Hackathon_GCP",
+      "code": "https://github.com/Tushar2930/GFG_Hackathon_GCP"
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "name": "KnowMo",
+    "desc": "A social media platform for college students with Question and Aanswer support to discuss problems with seniors or batchmates.",
     "image": "flipkartmern",
     "category": "mern",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "view": "https://github.com/Tushar2930/KnowMo",
+      "code": "https://github.com/Tushar2930/KnowMo"
     }
   },
   {
@@ -65,28 +65,28 @@
     "image": "resumegen",
     "category": "mern",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://enhancv.vercel.app/",
+      "code": "https://github.com/Tushar2930/Resume_Generator"
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
+    "name": "E-aspatal",
+    "desc": "ML based models which predict the likelihood of various diseases.",
+    "image": "e-aspatal",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "https://xxplo.vercel.app/hospital.html",
+      "code": "https://github.com/Tushar2930/Exploratory-Project"
     }
   },
   {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp",
+    "name": "Stress-Strain",
+    "desc": "ML model which would predict the suitable values of a,b and n which would fit the graph of experimental data of stress-strain values of different materials.",
+    "image": "stress-strain",
     "category": "lamp",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      "view": "https://xxplo.vercel.app/stress.html",
+      "code": "https://github.com/Tushar2930/Exploratory-Project"
     }
   },
   {
